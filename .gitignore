@@ -1,0 +1,6 @@
+*.class
+*.exe
+bin/
+obj/
+node_modules/
+.vscode/
