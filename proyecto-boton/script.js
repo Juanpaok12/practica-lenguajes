@@ -13,6 +13,6 @@ boton.addEventListener("click", function () {
       resultado.textContent = "1 USD = $" + tasa + " COP";
     })
     .catch(function (){
-      resultado.textContent = "No se consultar el dolar. Intenta de nuevo.";
+      resultado.textContent = "No se consultar el dólar. Intenta de nuevo.";
     });
 });
