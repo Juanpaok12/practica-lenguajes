@@ -17,7 +17,7 @@ for (let i = 1; i <= 20; i++) {
 }
 
 // Ejercicio 4:
-const materias = ["Matemáticas", "Física", "Programacion", "Ingles", "Analisis de sistemas"];
+const materias = ["Matemáticas", "Física", "Programación", "Inglés", "Análisis de sistemas"];
 for (const materia of materias) {
     console.log(materia);
 }
@@ -25,8 +25,8 @@ for (const materia of materias) {
 // Ejercicio 5:
 const estudiante = {
     nombre: "Juan Pablo",
-    ficha: 8,
-    programa: "Analisis de sistemas"
+    ficha: 3388937,
+    programa: "Análisis de sistemas"
 };
     console.log(estudiante.nombre);
     console.log(estudiante.ficha);
